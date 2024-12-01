@@ -22,5 +22,11 @@ Flow of agents supporting the dashboard
 
 ## Dashboard Walkthrough:
 
+## Fetch.ai Agents: 
+
+- Vaccine Information Agent: This agent queries vaccine knowledge project website and retrieves vaccine specific information.
+- Twitter Agent: This agent searches for tweets containing a specified keywords and returns the top 10 results which is used for dashboard sentiment analysis.
+- User Agent: This agent acts as an orchestrator for the Moderna vaccination dashboard. The agent communicates with another agents at a specified address to retrieve required information.
+
 
 
