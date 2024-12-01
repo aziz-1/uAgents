@@ -16,11 +16,65 @@ Produce a dashboard that uses Fetch.ai agents to support medical affairs with ma
 Flow of agents supporting the dashboard
 ![Copy of FetchAI-Hackathon](https://github.com/user-attachments/assets/95db1518-0e7d-433e-9442-0a07ecebaf52)
 
-## Dashboard overiew:
-https://drive.google.com/file/d/1ttwWBQwKRKPtljPQLFHVn_-ksMx9BIgB/view
-
-
 ## Dashboard Walkthrough:
+https://youtu.be/o6mBIjPEADA
+
+## Dashboard overiew:
+# Moderna Vaccination AI
+## Project Overview
+Developed by Imperial X Team, this hackathon project introduces an innovative solution to address vaccination hesitancy through AI-powered analytics and visualization tools. The project integrates real-time data analysis with practical medical information to support healthcare providers in their vaccination efforts.
+ 
+## Key Components
+ 
+### 1. Vaccination Dashboard
+The interactive dashboard serves as a comprehensive visualization platform for vaccination data:
+* Regional mapping system with dynamic data display across England
+* Customizable filtering system for analyzing:
+  - Virus impact percentages
+  - Vaccination hesitancy levels (Moderate, High, Severe)
+  - Demographic breakdowns by age and gender
+* Real-time data updates with smooth transitions between different views
+* Interactive elements allowing for detailed data exploration
+ 
+### 2. Social Media Analysis
+This component monitors and analyzes vaccination-related discussions across social platforms:
+* Automated tracking of high-impact posts and key opinion leaders
+* Sentiment analysis categorizing content as positive or negative
+* Multiple visualization timeframes:
+  - Daily bi-directional bar charts
+  - Weekly trend analysis
+  - Monthly pattern recognition
+* Impact scoring system measuring post reach and influence
+* Automated data collection and storage through Supabase integration
+ 
+### 3. Vaccination Hesitancy Mapping
+An advanced AI-driven system for analyzing and improving patient-doctor interactions:
+* Conversation analysis capabilities:
+  - Real-time sentiment tracking
+  - Key moment identification
+  - Hesitancy trigger detection
+* Strategic intervention tools:
+  - Customized checklists for healthcare providers
+  - Communication flow frameworks
+  - Simulated dialogue scenarios
+* Historical tracking and analysis storage
+ 
+## Technical Infrastructure
+* Database: Supabase implementation for real-time data management
+* AI Agents: Automated data collection and analysis
+* Visualization: Interactive charts and maps
+* Integration: Seamless connection between all components
+ 
+## Impact and Applications
+The system provides healthcare professionals with:
+* Data-driven insights into community vaccination trends
+* Tools for identifying and addressing hesitancy factors
+* Personalized strategies for patient communication
+* Historical data for tracking intervention effectiveness
+ 
+
+
+
 
 ## Fetch.ai Agents: 
 
