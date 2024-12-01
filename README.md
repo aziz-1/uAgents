@@ -22,7 +22,7 @@ https://youtu.be/o6mBIjPEADA
 ## Dashboard overiew:
 # Moderna Vaccination AI
 ## Project Overview
-Developed by Imperial X Team, this hackathon project introduces an innovative solution to address vaccination hesitancy through AI-powered analytics and visualization tools. The project integrates real-time data analysis with practical medical information to support healthcare providers in their vaccination efforts.
+Developed by Imperial I-X Team, this hackathon project introduces an innovative solution to address vaccination hesitancy through AI-powered analytics and visualization tools. The project integrates real-time data analysis with practical medical information to support healthcare providers in their vaccination efforts.
  
 ## Key Components
  
