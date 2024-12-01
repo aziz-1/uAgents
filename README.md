@@ -3,7 +3,7 @@
 ## Team:
 - Abdulaziz Alsaad
 - Santosh Kumar Saravanan
-- Asish Sayan
+- Asish Sayana
 - Lyson Ober
 - Sherwin Vadakkumcherry
 
